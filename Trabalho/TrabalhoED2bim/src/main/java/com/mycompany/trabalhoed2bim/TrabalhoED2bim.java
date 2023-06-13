@@ -22,7 +22,7 @@ public class TrabalhoED2bim {
                     + "2 - Ordenar e Listar\n"
                     + "3 - Depositar\n"
                     + "4 - Sacar\n"
-                    + "5 - Total Contas\n"
+                    + "5 - Somar saldo total entre Contas\n"
                     + "6 - Verificar Saldos Negativos\n"
                     + "7 - Sair"));
             switch (menu) {
